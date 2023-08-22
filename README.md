@@ -2,6 +2,9 @@
 
 This repository contains a simple Express server application that provides a CRUD (Create, Read, Update, Delete) API for a shopping list. The server uses MySQL as the database backend and stores the shopping list items and their quantities.
 
+Click on [Archety.dev](https://archety.dev/javascript/costruire-una-semplice-api-per-una-lista-della-spesa-con-express-e-mysql/) for more informations.
+
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
